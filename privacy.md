@@ -15,7 +15,7 @@ Bingo is a Discord bot. This policy explains what data it collects and why.
 
 ## What we do not collect
 
-We do not read, store, or analyse messages that do not invoke a command. Bingo only processes a message when it begins with `!` or when you reply to a message while using a command.
+Bingo reads message content only to operate its features. Almost always that means detecting and running a command. Two features necessarily read messages that are not commands: while you are marked away with !afk, Bingo checks messages for mentions of you so it can tell you who mentioned you, and clears your away status when you next speak; and while you have started !parrot, Bingo reads your own messages in that channel for up to five minutes in order to echo them back. Messages read for either purpose are processed in memory and are never stored, profiled, or analysed for anything else.. Bingo only processes a message when it begins with `!` or when you reply to a message while using a command.
 
 We do not store usernames, avatars, roles, or member lists. We do not sell or share data with third parties.
 
