@@ -1,6 +1,6 @@
 # Bingo — Privacy Policy
 
-*Last updated: 22 August 2026*
+*Last updated: 26 September 2026*
 
 Bingo is a Discord bot. This policy explains what data it collects and why.
 
